@@ -47,3 +47,7 @@ const createOption = async ()=> {
 
 createOption();
 startProcess();
+
+// Emreye ait yeni kod ekleniyor
+
+console.log("Starting emre code");
