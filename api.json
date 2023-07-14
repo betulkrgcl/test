@@ -1,0 +1,63 @@
+{
+    "USD": {
+    "satis": "26.0304",
+    "alis": "25.9875",
+    "degisim": "3.14",
+    "d_oran": "0.8174",
+    "d_yon": "caret-up"
+    },
+    "EUR": {
+    "satis": "28.4671",
+    "alis": "28.1889",
+    "degisim": "3.83",
+    "d_oran": "1.0903",
+    "d_yon": "caret-up"
+    },
+    "GBP": {
+    "satis": "33.1554",
+    "alis": "32.9900",
+    "degisim": "2.78",
+    "d_oran": "0.9217",
+    "d_yon": "caret-up"
+    },
+    "GA": {
+    "satis": "1608.8750",
+    "alis": "1608.5570",
+    "degisim": "3.14",
+    "d_oran": "50.5187",
+    "d_yon": "caret-up"
+    },
+    "C": {
+    "satis": "2649.2138",
+    "alis": "2600.8390",
+    "degisim": "3.30",
+    "d_oran": "87.4241",
+    "d_yon": "caret-up"
+    },
+    "GAG": {
+    "satis": "19.0737",
+    "alis": "19.0486",
+    "degisim": "4.66",
+    "d_oran": "0.8888",
+    "d_yon": "caret-up"
+    },
+    "BTC": {
+    "satis": "30193.6648",
+    "alis": "30193.6648",
+    "degisim": "-0.67",
+    "d_oran": "-202.2976",
+    "d_yon": "caret-down"
+    },
+    "ETH": {
+    "satis": "1851.2643",
+    "alis": "1851.2643",
+    "degisim": "-2.27",
+    "d_oran": "-42.0237",
+    "d_yon": "caret-down"
+    },
+    "XU100": {
+    "satis": "5732.86",
+    "alis": "5732.86",
+    "degisim": "3.16"
+    }
+    }

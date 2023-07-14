@@ -1,0 +1,8 @@
+bismillahirrahmanirrahim
+
+exchange input clasındaki verikleri alacağım.
+select inputa erişeceğim 
+butona erişeceğimbutonun disablei kalkacak 
+select verilerine göre apiden ilgili veriyi çek
+veiriyi hesapğla 
+2. inputa bastır
